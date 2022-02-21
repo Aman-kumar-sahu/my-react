@@ -1,0 +1,30 @@
+.contain{
+    display: flex;
+    /* background-color: black; */
+}
+.My_cart{
+    width: 1085px;
+    height: 50px;
+    border: 1px solid black;
+    margin-left: 200px;
+    border:1px solid rgb(202, 201, 201);
+    background-color: blue;
+}
+#h5{
+    padding:0px 10px;
+    padding-top: 10px;
+    color:white;
+}
+.Place_order{
+    width: 800px;
+    height: 70px;
+    border:1px solid rgb(202, 201, 201);
+    /* border: 1px solid black; */
+    margin-left: 200px;
+    text-align: right;
+    padding: 10px 20px;
+}
+.btn{
+    width: 200px;
+    height: 50px;
+}
